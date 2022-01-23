@@ -1,6 +1,6 @@
-import 'package:complete_ecommerce_f_ui/components/default_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:complete_ecommerce_f_ui/components/default_button.dart';
 
 import '../../../constants.dart';
 import '../../../size_config.dart';

@@ -1,3 +1,4 @@
+import 'package:flutter/widgets.dart';
 import 'package:complete_ecommerce_f_ui/screens/cart/cart_screen.dart';
 import 'package:complete_ecommerce_f_ui/screens/complete_profile/complete_profile_screen.dart';
 import 'package:complete_ecommerce_f_ui/screens/details/details_screen.dart';
@@ -8,7 +9,7 @@ import 'package:complete_ecommerce_f_ui/screens/otp/otp_screen.dart';
 import 'package:complete_ecommerce_f_ui/screens/profile/profile_screen.dart';
 import 'package:complete_ecommerce_f_ui/screens/sign_in/sign_in_screen.dart';
 import 'package:complete_ecommerce_f_ui/screens/splash/splash_screen.dart';
-import 'package:flutter/widgets.dart';
+
 import 'screens/sign_up/sign_up_screen.dart';
 
 // We use name route

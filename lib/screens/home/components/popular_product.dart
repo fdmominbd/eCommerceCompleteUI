@@ -1,6 +1,6 @@
+import 'package:flutter/material.dart';
 import 'package:complete_ecommerce_f_ui/components/product_card.dart';
 import 'package:complete_ecommerce_f_ui/models/Product.dart';
-import 'package:flutter/material.dart';
 
 import '../../../size_config.dart';
 import 'section_title.dart';

@@ -1,7 +1,6 @@
+import 'package:flutter/material.dart';
 import 'package:complete_ecommerce_f_ui/components/no_account_text.dart';
 import 'package:complete_ecommerce_f_ui/components/socal_card.dart';
-import 'package:flutter/material.dart';
-
 import '../../../size_config.dart';
 import 'sign_form.dart';
 

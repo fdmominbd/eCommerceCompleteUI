@@ -1,5 +1,5 @@
-import 'package:complete_ecommerce_f_ui/models/Cart.dart';
 import 'package:flutter/material.dart';
+import 'package:complete_ecommerce_f_ui/models/Cart.dart';
 
 import 'components/body.dart';
 import 'components/check_out_card.dart';

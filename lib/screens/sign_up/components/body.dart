@@ -1,8 +1,8 @@
-import 'package:complete_ecommerce_f_ui/components/socal_card.dart';
 import 'package:flutter/material.dart';
+import 'package:complete_ecommerce_f_ui/components/socal_card.dart';
+import 'package:complete_ecommerce_f_ui/constants.dart';
+import 'package:complete_ecommerce_f_ui/size_config.dart';
 
-import '../../../constants.dart';
-import '../../../size_config.dart';
 import 'sign_up_form.dart';
 
 class Body extends StatelessWidget {

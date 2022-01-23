@@ -1,7 +1,8 @@
+import 'package:flutter/material.dart';
 import 'package:complete_ecommerce_f_ui/routes.dart';
+import 'package:complete_ecommerce_f_ui/screens/profile/profile_screen.dart';
 import 'package:complete_ecommerce_f_ui/screens/splash/splash_screen.dart';
 import 'package:complete_ecommerce_f_ui/theme.dart';
-import 'package:flutter/material.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: theme(),
-      home: SplashScreen(),
+      // home: SplashScreen(),
       // We use routeName so that we dont need to remember the name
       initialRoute: SplashScreen.routeName,
       routes: routes,

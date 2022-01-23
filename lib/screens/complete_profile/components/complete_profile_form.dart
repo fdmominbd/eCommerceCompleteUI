@@ -1,8 +1,8 @@
+import 'package:flutter/material.dart';
 import 'package:complete_ecommerce_f_ui/components/custom_surfix_icon.dart';
 import 'package:complete_ecommerce_f_ui/components/default_button.dart';
 import 'package:complete_ecommerce_f_ui/components/form_error.dart';
 import 'package:complete_ecommerce_f_ui/screens/otp/otp_screen.dart';
-import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
 import '../../../size_config.dart';
